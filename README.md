@@ -1,20 +1,21 @@
 # Version
-This software was last updated 9/17/2014.
-Questions, comments, suggestions, etc? Send emails to nick.zhangyuan@gmail.com
+This software was last updated 9/17/2014. 
+Questions, comments, suggestions, etc? 
+Send emails to nick.zhangyuan@gmail.com 
 
-# Installation
-1. Clone the repository: 
+# Installation 
+1. Clone the repository:   
 `git clone git@github.com:zhangy72/SAT-Assembler.git`
 
 2. g++ compiler is required in your Unix system. To install SAT-Assembler, run the Makeme file using the following command:  
 `make` 
 
-3. Dependencies:
+3. Dependencies: 
   1) HMMER3 (http://hmmer.janelia.org/). The bin file hmmsearch should be in the path.  
   2) Python version 2.5 or later.  
   3) Python libraries of NetworkX (http://networkx.lanl.gov/) and Biopython (http://biopython.org/wiki/Main_Page).  
 
-# Run SAT-Assembler
+# Run SAT-Assembler 
 To run SAT-Assembler, use the following command:
 ```
 ./SAT-Assembler.sh -m <HMM file> -f <fasta file> [options]
@@ -35,7 +36,7 @@ The output includes a contig file in fasta format and a scaffold file. The name 
 
 # Reference SALT
 
-SAT-Assembler can be referenced as:
+SAT-Assembler can be referenced as: 
 <a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003737">Yuan Zhang, Yanni Sun, and James Cole, A Scalable and Accurate Targeted Gene Assembly Tool (SAT-Assembler) for Next-Generation Sequencing Data, PLOS Computational Biology</a>
 
 # License
