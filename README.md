@@ -10,7 +10,7 @@ Send emails to nick.zhangyuan@gmail.com
 2. g++ compiler is required in your Unix system. To install SAT-Assembler, run the Makeme file using the following command:  
 `make` 
 
-3. Dependencies: 
+3. Dependencies:   
   1) HMMER3 (http://hmmer.janelia.org/). The bin file hmmsearch should be in the path.  
   2) Python version 2.5 or later.  
   3) Python libraries of NetworkX (http://networkx.lanl.gov/) and Biopython (http://biopython.org/wiki/Main_Page).  
@@ -34,7 +34,7 @@ To run SAT-Assembler, use the following command:
 # Output
 The output includes a contig file in fasta format and a scaffold file. The name of the fasta file and the scaffold file include the name of the family. For example, the contig file and scaffold file for PF00005 are PF00005_contigs.fa and PF00005_scaffolds.txt. Each line of the scaffold file indicates the contigs that are from the same scaffold.
 
-# Reference SALT
+# Reference SAT-Assembler
 
 SAT-Assembler can be referenced as:   
 
