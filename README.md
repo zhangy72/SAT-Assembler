@@ -40,7 +40,7 @@ The output includes a contig file in fasta format and a scaffold file. The name 
 
 SAT-Assembler can be referenced as:   
 
-<a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003737">Yuan Zhang, Yanni Sun, and James Cole, A Scalable and Accurate Targeted Gene Assembly Tool (SAT-Assembler) for Next-Generation Sequencing Data, PLOS Computational Biology</a>
+<a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003737">Yuan Zhang, Yanni Sun, and Jamse R. Cole. A Scalable and Accurate Targeted Gene Assembly Tool (SAT-Assembler) for Next-Generation Sequencing Data. PLOS Computational Biology, 10(8): e1003737, 2014</a>
 
 # License
 Copyright (C) 2014, Yuan Zhang, Yanni Sun, and James Cole. 
