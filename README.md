@@ -1,7 +1,7 @@
 # Version
-This software was last updated 9/17/2014. 
-Questions, comments, suggestions, etc? 
-Send emails to nick.zhangyuan@gmail.com 
+This software was last updated 9/17/2014.  
+Questions, comments, suggestions, etc?  
+Send emails to nick.zhangyuan@gmail.com  
 
 # Installation 
 1. Clone the repository:   
