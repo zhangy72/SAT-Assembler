@@ -1,6 +1,6 @@
 # Version
-This software was last updated 9/17/2014.  
-Questions, comments, suggestions, etc?  
+This software was last updated 9/17/2014. Questions, comments, suggestions, etc?  
+
 Send emails to nick.zhangyuan@gmail.com  
 
 # Installation 
