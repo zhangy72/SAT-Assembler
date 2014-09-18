@@ -3,9 +3,11 @@ This software was last updated 9/17/2014.
 Questions, comments, suggestions, etc? Send emails to nick.zhangyuan@gmail.com
 
 # Installation
-1. git clone git@github.com:zhangy72/SAT-Assembler.git
-2. g++ compiler is required in your Unix system. To install SAT-Assembler, run the Makeme file using the following command:
+1. git clone `git@github.com:zhangy72/SAT-Assembler.git`
+
+2. g++ compiler is required in your Unix system. To install SAT-Assembler, run the Makeme file using the following command:  
 make 
+
 3. Dependencies:
   1) HMMER3 (http://hmmer.janelia.org/). The bin file hmmsearch should be in the path.  
   2) Python version 2.5 or later.  
