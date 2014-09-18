@@ -43,5 +43,6 @@ SAT-Assembler can be referenced as:
 <a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003737">Yuan Zhang, Yanni Sun, and James Cole, A Scalable and Accurate Targeted Gene Assembly Tool (SAT-Assembler) for Next-Generation Sequencing Data, PLOS Computational Biology</a>
 
 # License
-Copyright (C) 2014 Yuan Zhang, Yanni Sun, and James Cole.
+Copyright (C) 2014 Yuan Zhang, Yanni Sun, and James Cole. 
 
+You may redistribute this software under the terms of GNU GENERAL PUBLIC LICENSE.
