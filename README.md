@@ -6,11 +6,11 @@ Send emails to nick.zhangyuan@gmail.com
 # Installation 
 1. Clone the repository:   
 
-`git clone git@github.com:zhangy72/SAT-Assembler.git`
+  `git clone git@github.com:zhangy72/SAT-Assembler.git`
 
 2. g++ compiler is required in your Unix system. To install SAT-Assembler, run the Makeme file using the following command:  
 
-`make` 
+  `make` 
 
 3. Dependencies:   
   1) HMMER3 (http://hmmer.janelia.org/). The bin file hmmsearch should be in the path.  
